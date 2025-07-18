@@ -8,7 +8,7 @@ elif operacao == '-':
     print("O resultado é: ", n1-n2)
 elif operacao == '*':
     print("O resultado é: ", n1*n2)
-elif operacao == '-':
+elif operacao == '/':
     print("O resultado é: ", n1/n2)
 else:
     print("Operação inválida!")
